@@ -1,4 +1,8 @@
-[submodule "Hardware/lib/ben-kicad-library"]
+[submodule "TB67H410NG/Hardware/lib/ben-kicad-library"]
+	path = Hardware/lib/ben-kicad-library
+	url = https://github.com/benjamin-owen/ben-kicad-library
+	branch = main
+[submodule "IFX007T (BTN8982TA)/Hardware/lib/ben-kicad-library"]
 	path = Hardware/lib/ben-kicad-library
 	url = https://github.com/benjamin-owen/ben-kicad-library
 	branch = main
