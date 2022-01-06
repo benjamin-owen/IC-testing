@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Driver_Motor_Other")(type "KiCad")(uri "${KIPRJMOD}/lib/ben-kicad-library/ben-symbols/Driver_Motor_Other.kicad_sym")(options "")(descr ""))
+)
