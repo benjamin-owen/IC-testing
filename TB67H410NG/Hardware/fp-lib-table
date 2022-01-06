@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ben-footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/ben-kicad-library/ben-footprints.pretty")(options "")(descr ""))
+)
