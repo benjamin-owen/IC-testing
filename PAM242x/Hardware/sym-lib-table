@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Ben_Regulator_Switching")(type "KiCad")(uri "${KIPRJMOD}/lib/ben-kicad-library/ben-symbols/Ben_Regulator_Switching.kicad_sym")(options "")(descr ""))
+)
