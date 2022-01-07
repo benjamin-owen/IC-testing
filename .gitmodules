@@ -6,3 +6,11 @@
 	path = TB67H410NG/Hardware/lib/ben-kicad-library
 	url = https://github.com/benjamin-owen/ben-kicad-library
 	branch = main
+[submodule "MCP73833/Hardware/lib/ben-kicad-library"]
+	path = MCP73833/Hardware/lib/ben-kicad-library
+	url = https://github.com/benjamin-owen/ben-kicad-library
+	branch = main
+[submodule "PAM242x/Hardware/lib/ben-kicad-library"]
+	path = PAM242x/Hardware/lib/ben-kicad-library
+	url = https://github.com/benjamin-owen/ben-kicad-library
+	branch = main
