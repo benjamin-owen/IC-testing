@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Ben_Battery_Management")(type "KiCad")(uri "${KIPRJMOD}/lib/ben-kicad-library/ben-symbols/Ben_Battery_Management.kicad_sym")(options "")(descr ""))
+)
